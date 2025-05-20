@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/tests.dir/tests/test.cpp.o CMakeFiles/tests.dir/src/sha256.cpp.o CMakeFiles/tests.dir/src/config.cpp.o -o tests  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

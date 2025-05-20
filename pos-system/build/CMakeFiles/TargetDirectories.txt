@@ -1,4 +1,0 @@
-/home/vboxuser/Downloads/pos-system/build/CMakeFiles/branch_server.dir
-/home/vboxuser/Downloads/pos-system/build/CMakeFiles/tests.dir
-/home/vboxuser/Downloads/pos-system/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/Downloads/pos-system/build/CMakeFiles/rebuild_cache.dir

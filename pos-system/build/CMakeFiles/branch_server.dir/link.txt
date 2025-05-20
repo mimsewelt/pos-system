@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/branch_server.dir/src/config.cpp.o CMakeFiles/branch_server.dir/src/http_server.cpp.o CMakeFiles/branch_server.dir/src/main.cpp.o CMakeFiles/branch_server.dir/src/sha256.cpp.o -o branch_server  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
