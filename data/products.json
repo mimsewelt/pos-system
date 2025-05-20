@@ -1,0 +1,19 @@
+{
+    "produkte": [
+        {
+            "id": 1,
+            "name": "Espresso",
+            "preis": 2.50
+        },
+        {
+            "id": 2,
+            "name": "Cappuccino",
+            "preis": 3.00
+        },
+        {
+            "id": 3,
+            "name": "Croissant",
+            "preis": 1.80
+        }
+    ]
+}

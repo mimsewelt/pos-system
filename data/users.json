@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "benutzer": "admin",
+      "passwort_hash": "e8c8a7411cc909f99144119279aff1976ea26ef280865a6d0a5530b868e7ca2d",
+      "token": "auth_admin",
+      "rolle": "admin"
+    },
+    {
+      "benutzer": "lager",
+      "passwort_hash": "d02cdea21b54b65e30ca6fde0b7adc4992b6a06540cc309d02af6bcedeb9cdba",
+      "token": "auth_lager",
+      "rolle": "lager"
+    }
+  ]
+}
