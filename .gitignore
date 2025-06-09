@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Editor & System
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Database (optional, falls SQLite-Dateien nicht getrackt werden sollen)
+*.db
+*.sqlite3
